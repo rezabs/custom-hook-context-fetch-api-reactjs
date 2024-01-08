@@ -10,7 +10,7 @@ Context API is another valuable feature in React that enables you to share data 
 Combining custom hooks with Context API is an excellent way to fetch data from an API and share it across multiple components. This approach makes it easy to manage and reuse data fetching logic while ensuring that the data is available to all the components that need it.
 
 ## Read more
-[TBD]
+(https://savadkouhi.com/2023/12/blog/react-js-simplify-data-fetching-in-react-with-hooks-and-context.aspx)
 
 ## How to use
 - Clone the repository (git clone [URL])
